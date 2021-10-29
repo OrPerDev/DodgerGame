@@ -7,6 +7,7 @@ App Creation Motive
 We had to create a windows app using MFC C++ and the project must've contained some graphical presentations, most of the students decided to create a basic paint app (and the course's head did teach some techniques in this direction) but because of the paint, un-genuine implementation, we decided to create a runner game. no special animation/gif loader lib was used due to the restrictions, so we did have to implement such a mechanism by ourselves.
 
 Game And Graphics View
+
 ![DodgerExample](https://user-images.githubusercontent.com/91319947/139397983-b2329378-d60a-44e8-8952-6985d2d528fa.gif)
 
 ![Game Over Example](https://user-images.githubusercontent.com/91319947/139397991-800c78bb-909d-40aa-80bb-f6f53831de9e.gif)
